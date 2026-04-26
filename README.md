@@ -74,4 +74,5 @@ I'm a passionate backend developer with a focus on Java & Spring Boot, building 
 ## 📫 Contact
 
 - 📧 [duccanh1102005@gmail.com](mailto:duccanh1102005@gmail.com)
+- 📘 [Facebook](https://www.facebook.com/CT080107/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cảnhh-trần-2570923b3)
