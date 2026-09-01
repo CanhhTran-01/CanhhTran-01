@@ -62,15 +62,6 @@ I'm a passionate backend developer with a focus on Java & Spring Boot, building 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CanhhTran-01&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanhhTran-01&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 📫 Contact
 
 - 📧 [duccanh1102005@gmail.com](mailto:duccanh1102005@gmail.com)
